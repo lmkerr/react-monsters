@@ -59,3 +59,26 @@ typings/
 
 # next.js build output
 .next
+
+
+# presentation
+/presentation/node_modules
+/presentation/.pnp
+/presentation/.pnp.js
+
+# testing
+/presentation/coverage
+
+# production
+/presentation/build
+
+# misc
+/presentation/.DS_Store
+/presentation/.env.local
+/presentation/.env.development.local
+/presentation/.env.test.local
+/presentation/.env.production.local
+
+/presentation/npm-debug.log*
+/presentation/yarn-debug.log*
+/presentation/yarn-error.log*
